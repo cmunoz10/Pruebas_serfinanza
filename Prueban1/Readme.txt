@@ -11,7 +11,7 @@ Requerimientos/anotaciones:
 
 -Se utilizo Eclipse. 
 -Se requiere la instalacion de Gradle dentro de sus dependencias.
--Se Adjunta Pdf con modelo de base de datos.
+-Se Adjunta imagen con modelo de base de datos.
 -Se crear la logica funcional y testeo de funciones.
 
 
