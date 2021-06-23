@@ -1,0 +1,30 @@
+Guia de desarrollo 
+
+1- Descomprimir
+2- abrir la base de datos en nuestro gestor 
+3- la base de datos utilizada tiene por nombre usuarios
+4- usamos la terminal para acceder primero a la carpeta usuarios, en donde ejecutaremos:
+
+npm install --global yarn
+npm isntall react-scripts
+yarn add styled-components
+npm i bootstrap
+npm i axios
+npm i @material-ui/core
+yarn add @material-ui/icons
+npm i react-router-dom
+   
+5- inicializamos con el comando "yarn start"
+
+6- Ahora nos dirijimos a la carpeta servidor y ejecutamos :
+npm init 
+npm i mysql
+npm i express-myconnection
+npm i nodemon --save-dev
+
+7.y para montar el servidor ejecutamos 
+
+node index.js
+
+lo que correra el servidor en el puerto 3001 en este caso
+
