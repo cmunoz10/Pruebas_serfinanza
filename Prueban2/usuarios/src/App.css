@@ -1,0 +1,70 @@
+.App {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.info{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.banner{
+  background-color: white;
+  width: 100%;
+  height: 100%;
+}
+.container{
+  background-image: url("https://www.solofondos.com/wp-content/uploads/2017/08/paper2b3.jpg");
+}
+input{
+width: 300px;
+height: 30px;
+font-size: 20px;
+padding-left: 10px;
+}
+.formulario{
+  margin-left: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.btn-group{
+padding: 20px; 
+}
+.inicio{
+  color: rgb(0, 0, 0) ;
+  width: 100%;
+  height: 400px;
+}
+button{
+margin-top: 20px;
+width: 300px;
+height: 30px;
+}
+button:hover{
+  cursor:pointer;
+  }
+.Usuarios{
+display:flex;
+align-items: center;
+width: 100%;
+flex-direction: column;
+}
+
+.datos{
+width: 500px;  
+font-size: 20px;
+}
+.monitor{
+  width: 1000px;
+  height: auto;
+  border: 1px solid black;
+  margin: 30px;
+  display:flex;
+  padding: 10px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.monitor h3 {
+  margin: 20px;
+}
