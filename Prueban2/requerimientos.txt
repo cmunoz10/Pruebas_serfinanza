@@ -1,5 +1,5 @@
 Guia de desarrollo 
-
+Tiempo empleado dentro del desarrollo logrado: 3 horas 22 minutos
 1- Descomprimir
 2- abrir la base de datos en nuestro gestor 
 3- la base de datos utilizada tiene por nombre usuarios
