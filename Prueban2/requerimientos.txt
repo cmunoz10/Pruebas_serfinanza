@@ -21,6 +21,8 @@ npm init
 npm i mysql
 npm i express-myconnection
 npm i nodemon --save-dev
+npm i cors
+npm i express
 
 7.y para montar el servidor ejecutamos 
 
