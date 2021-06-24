@@ -14,6 +14,13 @@ Requerimientos/anotaciones:
 -Se Adjunta imagen con modelo de base de datos.
 -Se crear la logica funcional y testeo de funciones.
 
+-Para manipular los préstamos y los libros (CRUD), se deberá hacer uso de los componentes RepositorioLibro y RepositorioPrestamo
+Se recomienda seguir los siguientes pasos :
+-Tener configurado Java 1.8 como variable de entorno, JAVA_HOME.
+-Descargar eclipse Neon.
+https://www.eclipse.org/downloads/download.php?file=/oomph/epp/neon/R3/eclipse-inst-win64.exe.
+-Abrir eclipse y crear un workspace.
+-Instalar el plugin de Gradle.
 
 
 
